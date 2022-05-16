@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @WaylonWay369
+- My name is Waylon.
+- I have been codeing for about 3 years.
+- I am intrested in c++,javascript, and python.
+- I am very intrested in working on/ helping with projects.
+- : )
